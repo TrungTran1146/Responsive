@@ -1,0 +1,24 @@
+@media not | only mediatype and (mediafeature and | or | not mediafeature)
+{
+    CSS code
+}
+1.KeyWords:
+only
+not
+and
+or
+
+
+2.Mediatypes
+print
+screen
+speech
+all - default
+
+
+3.Media Feature
+
+min-width
+max-width
+
+4.Folyfill
